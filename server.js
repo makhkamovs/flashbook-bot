@@ -3,7 +3,7 @@ const http = require('http');
 
 // ── CONFIG ──────────────────────────────────────────────
 const BOT_TOKEN = '8754473230:AAEF0yKKLMtLZLrd53k-xVy9PlackW15v_A';
-const MANAGER_CHAT_ID = '8131102104';
+const MANAGER_CHAT_ID = '5417979132';
 const PORT = process.env.PORT || 3000;
 // ────────────────────────────────────────────────────────
 
